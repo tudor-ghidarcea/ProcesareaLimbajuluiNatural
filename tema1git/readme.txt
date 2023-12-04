@@ -1,0 +1,1 @@
+in folderul filme.rar sunt fisierele generate de program, prea multe la numar pentru a le pune intr-un folder necompresat
